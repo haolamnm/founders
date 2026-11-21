@@ -1,3 +1,3 @@
 # founders
 
-Home, privacy policy and terms for the For The Founders YouTube channel and its private publishing tool. Static HTML on GitHub Pages: https://haolamnm.github.io/founders/
+Home, privacy and terms for For The Founders. https://haolamnm.github.io/founders/
