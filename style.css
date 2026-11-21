@@ -1,0 +1,14 @@
+:root { --base:#0C0D11; --ink:#C9CBD3; --dim:#6E717C; --accent:#DC143C; }
+* { box-sizing:border-box; }
+html,body { margin:0; background:var(--base); color:var(--ink);
+  font:16px/1.65 ui-monospace,"SF Mono",Menlo,Consolas,monospace; }
+main { max-width:42rem; margin:0 auto; padding:4rem 1.5rem 6rem; }
+img.mark { width:96px; height:96px; image-rendering:pixelated; display:block; margin-bottom:2rem; }
+h1 { font-size:1.5rem; font-weight:600; margin:0 0 .5rem; letter-spacing:.01em; }
+h2 { font-size:1rem; font-weight:600; margin:2.2rem 0 .4rem; }
+p,li { color:var(--ink); }
+.dim { color:var(--dim); }
+a { color:var(--ink); text-underline-offset:3px; }
+a.go { color:var(--accent); }
+nav { margin-top:3rem; color:var(--dim); font-size:.9rem; }
+nav a { color:var(--dim); margin-right:1.2rem; }
